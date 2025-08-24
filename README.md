@@ -1,1 +1,1 @@
-# ecommerce-testing-project
+# Ecommerce Testing Project
